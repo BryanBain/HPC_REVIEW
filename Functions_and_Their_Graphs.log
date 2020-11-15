@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  14 NOV 2020 20:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 NOV 2020 07:49
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **Functions_and_Their_Graphs.tex
 (./Functions_and_Their_Graphs.tex
@@ -458,8 +458,88 @@ Overfull \hbox (34.11821pt too wide) in paragraph at lines 32--33
 [][]$ 
  []
 
+
+Overfull \hbox (30.02084pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (43.40018pt too wide) in paragraph at lines 33--34
+\OMS/cmsy/m/n/10 ^^@[]$ 
+ []
+
+
+Overfull \hbox (29.17705pt too wide) in paragraph at lines 34--35
+\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (44.0486pt too wide) in paragraph at lines 34--35
+[]$ 
+ []
+
+
+Overfull \hbox (29.81017pt too wide) in paragraph at lines 35--36
+\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (44.67372pt too wide) in paragraph at lines 35--36
+\OMS/cmsy/m/n/10 ^^@[][]$ 
+ []
+
+
+Overfull \hbox (30.02084pt too wide) in paragraph at lines 36--37
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (34.11821pt too wide) in paragraph at lines 36--37
+[][]$ 
+ []
+
+
+Overfull \hbox (29.17705pt too wide) in paragraph at lines 37--38
+\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (23.62924pt too wide) in paragraph at lines 37--38
+[]$ 
+ []
+
+
+Overfull \hbox (29.81017pt too wide) in paragraph at lines 38--39
+\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (27.4252pt too wide) in paragraph at lines 38--39
+[]$ 
+ []
+
+
+Overfull \hbox (30.02084pt too wide) in paragraph at lines 39--40
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (31.6015pt too wide) in paragraph at lines 39--40
+[]$ 
+ []
+
+
+Overfull \hbox (29.17705pt too wide) in paragraph at lines 40--41
+\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (27.4252pt too wide) in paragraph at lines 40--41
+[]$ 
+ []
+
 ! Undefined control sequence.
-l.35 \section
+l.43 \section
              {Piecewise Functions}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -486,7 +566,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--44
 []
  []
 
@@ -568,12 +648,12 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--46
 []
  []
 
 ! Misplaced alignment tab character &.
-l.40     x^2-1   &
+l.48     x^2-1   &
                   \text{if } x < -3 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -583,7 +663,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.40     x^2-1   &\text
+l.48     x^2-1   &\text
                        {if } x < -3 \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -592,7 +672,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.41     0.2x+7  &
+l.49     0.2x+7  &
                   \text{if } -3 \leq x < 2   \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -602,7 +682,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.41     0.2x+7  &\text
+l.49     0.2x+7  &\text
                        {if } -3 \leq x < 2   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -611,7 +691,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.42     \sqrt{5x}   &
+l.50     \sqrt{5x}   &
                       \text{if } x \geq 2    \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -621,7 +701,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.42     \sqrt{5x}   &\text
+l.50     \sqrt{5x}   &\text
                            {if } x \geq 2    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -630,7 +710,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (248.25049pt too wide) detected at line 44
+Overfull \hbox (248.25049pt too wide) detected at line 52
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [][] \
 OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 x < \OMS/cmsy/m/n/10 ^^
 @\OT1/cmr/m/n/10 3[] 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x \OT
@@ -640,28 +720,175 @@ OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 x < \OMS/cmsy/m/n/10 ^^
  []
 
 
-Overfull \hbox (18.75008pt too wide) in paragraph at lines 46--47
+Overfull \hbox (18.75008pt too wide) in paragraph at lines 54--55
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (3)$ 
  []
 
 
-Overfull \hbox (18.75008pt too wide) in paragraph at lines 47--48
+Overfull \hbox (18.75008pt too wide) in paragraph at lines 55--56
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (0)$ 
  []
 
 
-Overfull \hbox (26.52788pt too wide) in paragraph at lines 48--49
+Overfull \hbox (26.52788pt too wide) in paragraph at lines 56--57
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2)$ 
  []
 
 
-Overfull \hbox (26.52788pt too wide) in paragraph at lines 49--50
+Overfull \hbox (26.52788pt too wide) in paragraph at lines 57--58
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3)$ 
  []
 
 
-Overfull \hbox (26.52788pt too wide) in paragraph at lines 50--51
+! LaTeX Error: No counter 'Review' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \setcounter{Review}{\value{enumi}}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (26.52788pt too wide) in paragraph at lines 58--60
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5)$ 
+ []
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+[]
+ []
+
+! Misplaced alignment tab character &.
+l.65 x^2-7 &
+             x \leq -4 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.66 \sqrt{2x+7} &
+                   -4 < x < 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.67 |-x-1| &
+              x \geq 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (237.77603pt too wide) detected at line 69
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [][] \
+OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^T ^^
+@\OT1/cmr/m/n/10 4[] [] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 4 \OML/cmm/m/it/10
+ < x < \OT1/cmr/m/n/10 0[] \OMS/cmsy/m/n/10 j ^^@ \OML/cmm/m/it/10 x \OMS/cmsy/
+m/n/10 ^^@ \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x \OMS/cmsy/m/n/
+10 ^^U \OT1/cmr/m/n/10 0[] 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@Review 
+l.70 ...merate}	\setcounter{enumi}{\value{Review}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Overfull \hbox (18.75008pt too wide) in paragraph at lines 71--72
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (3)$ 
+ []
+
+
+Overfull \hbox (26.52788pt too wide) in paragraph at lines 72--73
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2)$ 
+ []
+
+
+Overfull \hbox (18.75008pt too wide) in paragraph at lines 73--74
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (0)$ 
+ []
+
+
+! LaTeX Error: No counter 'Review' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \setcounter{Review}{\value{enumi}}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (26.52788pt too wide) in paragraph at lines 74--76
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 5)$ 
  []
 
 
@@ -672,39 +899,39 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \newpage
+l.78 \newpage
              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (71.30252pt too wide) in paragraph at lines 55--56
+Overfull \hbox (71.30252pt too wide) in paragraph at lines 80--81
 []\OT1/cmr/m/sc/10 Functions
  []
 
 
-Overfull \hbox (18.51106pt too wide) in paragraph at lines 55--56
+Overfull \hbox (18.51106pt too wide) in paragraph at lines 80--81
 \OT1/cmr/m/sc/10 and
  []
 
 
-Overfull \hbox (28.6165pt too wide) in paragraph at lines 55--56
+Overfull \hbox (28.6165pt too wide) in paragraph at lines 80--81
 \OT1/cmr/m/sc/10 Their
  []
 
 
-Overfull \hbox (36.95815pt too wide) in paragraph at lines 55--56
+Overfull \hbox (36.95815pt too wide) in paragraph at lines 80--81
 \OT1/cmr/m/sc/10 Graphs
  []
 
 
-Overfull \hbox (20.34152pt too wide) in paragraph at lines 55--56
+Overfull \hbox (20.34152pt too wide) in paragraph at lines 80--81
 \OT1/cmr/m/sc/10 Key 
  []
 
 ! Undefined control sequence.
-l.57 \section
+l.82 \section
              *{Evaluating Functions}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -733,43 +960,43 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 57--58
+Overfull \hbox (20.0pt too wide) in paragraph at lines 82--83
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 59--59
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--84
 [] 
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 60--61
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 85--86
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 55$ 
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 61--62
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 86--87
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 20$ 
  []
 
 Missing character: There is no 0 in font nullfont!
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 63--64
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 88--89
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 4$ 
  []
 
 
-Overfull \hbox (20.55562pt too wide) in paragraph at lines 64--65
+Overfull \hbox (20.55562pt too wide) in paragraph at lines 89--90
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2$ 
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 65--66
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 90--91
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1$ 
  []
 
 ! Undefined control sequence.
-l.68 \section
+l.93 \section
              *{Domain of Functions}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -796,144 +1023,224 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 68--69
+Overfull \hbox (20.0pt too wide) in paragraph at lines 93--94
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 70--70
+Overfull \hbox (20.0pt too wide) in paragraph at lines 95--95
 [] 
  []
 
 
-Overfull \hbox (40.00005pt too wide) in paragraph at lines 71--72
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 96--97
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
 /cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (39.81674pt too wide) in paragraph at lines 72--73
+Overfull \hbox (39.81674pt too wide) in paragraph at lines 97--98
 []$ 
  []
 
 
-Overfull \hbox (44.44176pt too wide) in paragraph at lines 73--74
+Overfull \hbox (44.44176pt too wide) in paragraph at lines 98--99
 [] \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (29.99727pt too wide) in paragraph at lines 73--74
+Overfull \hbox (29.99727pt too wide) in paragraph at lines 98--99
 []$ 
  []
 
 
-Overfull \hbox (40.00005pt too wide) in paragraph at lines 74--75
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 99--100
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
 /cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (40.00005pt too wide) in paragraph at lines 75--76
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 100--101
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
 /cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (44.44176pt too wide) in paragraph at lines 76--77
+Overfull \hbox (44.44176pt too wide) in paragraph at lines 101--102
 [] \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (29.99727pt too wide) in paragraph at lines 76--77
+Overfull \hbox (29.99727pt too wide) in paragraph at lines 101--102
 []$ 
  []
 
 
-Overfull \hbox (26.11113pt too wide) in paragraph at lines 77--78
+Overfull \hbox (26.11113pt too wide) in paragraph at lines 102--103
 \OT1/cmr/m/n/10 [4\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (49.44453pt too wide) in paragraph at lines 78--79
+Overfull \hbox (49.44453pt too wide) in paragraph at lines 103--104
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\O
 T1/cmr/m/n/10 4) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (36.66673pt too wide) in paragraph at lines 78--79
+Overfull \hbox (36.66673pt too wide) in paragraph at lines 103--104
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/c
 mr/m/n/10 4) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (27.22224pt too wide) in paragraph at lines 78--79
+Overfull \hbox (27.22224pt too wide) in paragraph at lines 103--104
 \OT1/cmr/m/n/10 (4\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (49.44453pt too wide) in paragraph at lines 79--80
+Overfull \hbox (49.44453pt too wide) in paragraph at lines 104--105
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\O
 T1/cmr/m/n/10 2) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (36.66673pt too wide) in paragraph at lines 79--80
+Overfull \hbox (36.66673pt too wide) in paragraph at lines 104--105
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/c
 mr/m/n/10 0) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (28.88893pt too wide) in paragraph at lines 79--80
+Overfull \hbox (28.88893pt too wide) in paragraph at lines 104--105
 \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (27.22224pt too wide) in paragraph at lines 79--80
+Overfull \hbox (27.22224pt too wide) in paragraph at lines 104--105
 \OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (27.22224pt too wide) in paragraph at lines 80--81
+Overfull \hbox (27.22224pt too wide) in paragraph at lines 105--106
 \OT1/cmr/m/n/10 (4\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (40.00005pt too wide) in paragraph at lines 81--82
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 106--107
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
 /cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (49.44453pt too wide) in paragraph at lines 82--83
+Overfull \hbox (49.44453pt too wide) in paragraph at lines 107--108
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\O
 T1/cmr/m/n/10 1) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (36.66673pt too wide) in paragraph at lines 82--83
+Overfull \hbox (36.66673pt too wide) in paragraph at lines 107--108
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/c
 mr/m/n/10 6) \OMS/cmsy/m/n/10 [
  []
 
 
-Overfull \hbox (27.22224pt too wide) in paragraph at lines 82--83
+Overfull \hbox (27.22224pt too wide) in paragraph at lines 107--108
 \OT1/cmr/m/n/10 (6\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 )$ 
  []
 
 
-Overfull \hbox (37.3584pt too wide) in paragraph at lines 83--84
+Overfull \hbox (37.3584pt too wide) in paragraph at lines 108--109
 []$ 
  []
 
 
-Overfull \hbox (40.00005pt too wide) in paragraph at lines 84--85
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 109--110
 \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
 /cmr/m/n/10 )$ 
  []
 
+
+Overfull \hbox (49.44453pt too wide) in paragraph at lines 110--111
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\O
+T1/cmr/m/n/10 2) \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (44.44453pt too wide) in paragraph at lines 110--111
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 ^^@\OT1/cmr/m/n/10 1) \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (35.00005pt too wide) in paragraph at lines 110--111
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 1\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (37.3584pt too wide) in paragraph at lines 111--112
+[]$ 
+ []
+
+
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 112--113
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
+/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (40.00005pt too wide) in paragraph at lines 113--114
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 1\OT1
+/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (35.00005pt too wide) in paragraph at lines 114--115
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 1\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (56.20569pt too wide) in paragraph at lines 115--116
+[] \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (51.20569pt too wide) in paragraph at lines 115--116
+[] \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (35.00005pt too wide) in paragraph at lines 115--116
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 1\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (37.77507pt too wide) in paragraph at lines 116--117
+[]$ 
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/
+cmr/m/n/10 5) \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (44.44453pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 ^^@\OT1/cmr/m/n/10 2) \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (35.00005pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 1\OT1/cmr/m/n/10 )$ 
+ []
+
 ! Undefined control sequence.
-l.87 \section
-             *{Piecewise Functions}
+l.120 \section
+              *{Piecewise Functions}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -960,17 +1267,17 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 87--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 120--121
 [] 
  []
 
 
-Overfull \hbox (28.8889pt too wide) in paragraph at lines 89--90
+Overfull \hbox (28.8889pt too wide) in paragraph at lines 122--123
 [] \OMS/cmsy/m/n/10 ^^Y
  []
 
 
-Overfull \hbox (22.77785pt too wide) in paragraph at lines 89--90
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 122--123
 \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 873$ 
  []
 
@@ -984,6 +1291,20 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+Overfull \hbox (23.88889pt too wide) in paragraph at lines 128--129
+[] \OMS/cmsy/m/n/10 ^^Y
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 732$ 
+ []
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 )
 ! Emergency stop.
 <*> Functions_and_Their_Graphs.tex
@@ -992,11 +1313,11 @@ Missing character: There is no 1 in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 15 strings out of 492649
- 321 string characters out of 6129622
- 62655 words of memory out of 5000000
- 3995 multiletter control sequences out of 15000+600000
+ 16 strings out of 492649
+ 329 string characters out of 6129622
+ 66655 words of memory out of 5000000
+ 3996 multiletter control sequences out of 15000+600000
  3941 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,6n,12p,124b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18i,6n,12p,140b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  14 NOV 2020 20:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 NOV 2020 09:12
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -625,7 +625,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
-(./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux))
+(./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
+(./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
+(./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
+(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -766,59 +769,116 @@ Chapter 2.
 
 
 
-] [4]) [5]
+] [4] [5]) [6]
 \openout2 = `Properties_of_Functions.aux'.
 
  (./Properties_of_Functions.tex
 Chapter 3.
-[6
+[7
 
 
 
-] [7]) [8]
+] [8]) [9]
 \openout2 = `Linear_Functions_and_Slope.aux'.
 
  (./Linear_Functions_and_Slope.tex
 Chapter 4.
-[9
+[10
 
 
 
-]) [10]
+]) [11]
 \openout2 = `Function_Transformations.aux'.
 
  (./Function_Transformations.tex
 Chapter 5.
-[11
+[12
 
 
 
-]) [12] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
+]) [13]
+\openout2 = `Function_Operations.aux'.
+
+ (./Function_Operations.tex
+Chapter 6.
+[14
+
+
+
+]) [15]
+\openout2 = `Polynomials_and_Their_Graphs.aux'.
+
+ (./Polynomials_and_Their_Graphs.tex
+Chapter 7.
+[16
+
+
+
+]) [17]
+\openout2 = `Dividing_Polynomials.aux'.
+
+ (./Dividing_Polynomials.tex
+Chapter 8.
+[18
+
+
+
+]) [19]
+\openout2 = `Rational_Functions_and_Their_Graphs.aux'.
+
+ (./Rational_Functions_and_Their_Graphs.tex
+Chapter 9.
+[20
+
+
+
+]) [21]
+\openout2 = `Polynomial_and_Rational_Inequalities.aux'.
+
+ (./Polynomial_and_Rational_Inequalities.tex
+Chapter 10.
+[22
+
+
+
+]) [23]
+\openout2 = `Function_Compositions.aux'.
+
+ (./Function_Compositions.tex
+Chapter 11.
+[24
+
+
+
+]) [25] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
-(./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)) ) 
+(./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
+(./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
+(./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
+(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)) ) 
 Here is how much of TeX's memory you used:
- 22845 strings out of 492649
- 595186 string characters out of 6129622
- 831083 words of memory out of 5000000
- 26322 multiletter control sequences out of 15000+600000
+ 22893 strings out of 492649
+ 596656 string characters out of 6129622
+ 833041 words of memory out of 5000000
+ 26328 multiletter control sequences out of 15000+600000
  7853 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,9n,127p,727b,2192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (12 pages, 113927 bytes).
+</
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (25 pages, 133847 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 128 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
