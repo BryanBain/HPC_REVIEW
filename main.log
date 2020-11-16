@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 NOV 2020 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 NOV 2020 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,7 +595,56 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 459.
 LaTeX Font Info:    Overwriting math alphabet `\mathsl' in version `bold'
 (Font)                  OT1/cmss/m/sl --> OT1/cmss/m/sl on input line 466.
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count128
+\mult@box=\box42
+\multicol@leftmargin=\dimen176
+\c@unbalance=\count129
+\c@collectmore=\count130
+\doublecol@number=\count131
+\multicoltolerance=\count132
+\multicolpretolerance=\count133
+\full@width=\dimen177
+\page@free=\dimen178
+\premulticols=\dimen179
+\postmulticols=\dimen180
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box43
+\last@line=\box44
+\maxbalancingoverflow=\dimen181
+\mult@rightbox=\box45
+\mult@grightbox=\box46
+\mult@gfirstbox=\box47
+\mult@firstbox=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\c@columnbadness=\count134
+\c@finalcolumnbadness=\count135
+\last@try=\dimen182
+\multicolovershoot=\dimen183
+\multicolundershoot=\dimen184
+\mult@nat@firstbox=\box66
+\colbreak@box=\box67
+\mc@col@check@num=\count136
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/03/24 v5.7 Page Geometry
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -608,27 +657,28 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count128
-\Gm@cntv=\count129
-\c@Gm@tempcnt=\count130
-\Gm@bindingoffset=\dimen176
-\Gm@wd@mp=\dimen177
-\Gm@odd@mp=\dimen178
-\Gm@even@mp=\dimen179
-\Gm@layoutwidth=\dimen180
-\Gm@layoutheight=\dimen181
-\Gm@layouthoffset=\dimen182
-\Gm@layoutvoffset=\dimen183
+\Gm@cnth=\count137
+\Gm@cntv=\count138
+\c@Gm@tempcnt=\count139
+\Gm@bindingoffset=\dimen185
+\Gm@wd@mp=\dimen186
+\Gm@odd@mp=\dimen187
+\Gm@even@mp=\dimen188
+\Gm@layoutwidth=\dimen189
+\Gm@layoutheight=\dimen190
+\Gm@layouthoffset=\dimen191
+\Gm@layoutvoffset=\dimen192
 \Gm@dimlist=\toks38
 )
-\c@Review=\count131
+\c@Review=\count140
 
 (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
 (./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
 (./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
 (./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
-(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux))
+(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)
+(./Factoring.aux) (./Complex_Fractions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -647,16 +697,16 @@ LaTeX Font Info:    ... okay on input line 10.
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count132
-\scratchdimen=\dimen184
-\scratchbox=\box42
-\nofMPsegments=\count133
-\nofMParguments=\count134
+\scratchcounter=\count141
+\scratchdimen=\dimen193
+\scratchbox=\box68
+\nofMPsegments=\count142
+\nofMParguments=\count143
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count135
-\MPscratchDim=\dimen185
-\MPnumerator=\count136
-\makeMPintoPDFobject=\count137
+\MPscratchCnt=\count144
+\MPscratchDim=\dimen194
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
 \everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -747,29 +797,36 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.16}).
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `Basic_Set_Theory_Int_Notation.aux'.
+(./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
-(./Basic_Set_Theory_Int_Notation.tex
-Chapter 1.
-[1
-
+ [1
 
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Basic_Set_Theory_Int_Notation.aux'.
+
+ (./Basic_Set_Theory_Int_Notation.tex
+Chapter 1.
+[2
+
+
+]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 57.
 
-) [2]
+) [3]
 \openout2 = `Functions_and_Their_Graphs.aux'.
 
  (./Functions_and_Their_Graphs.tex
 Chapter 2.
-[3
+[4
 
 
 
-] [4] [5]) [6]
+] [5]) [6]
 \openout2 = `Properties_of_Functions.aux'.
 
  (./Properties_of_Functions.tex
@@ -850,35 +907,54 @@ Chapter 11.
 
 
 
-]) [25] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
+]) [25]
+\openout2 = `Factoring.aux'.
+
+ (./Factoring.tex
+Appendix A.
+[26
+
+
+
+]) [27]
+\openout2 = `Complex_Fractions.aux'.
+
+ (./Complex_Fractions.tex
+Appendix B.
+[28
+
+
+
+]) [29] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
 (./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
 (./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
 (./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
-(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)) ) 
+(./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)
+(./Factoring.aux) (./Complex_Fractions.aux)) ) 
 Here is how much of TeX's memory you used:
- 22893 strings out of 492649
- 596656 string characters out of 6129622
- 833041 words of memory out of 5000000
- 26328 multiletter control sequences out of 15000+600000
- 7853 words of font info for 28 fonts, out of 8000000 for 9000
+ 23030 strings out of 492649
+ 598712 string characters out of 6129622
+ 847238 words of memory out of 5000000
+ 26445 multiletter control sequences out of 15000+600000
+ 8453 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,9n,127p,727b,2192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (25 pages, 133836 bytes).
+</usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (29 pages, 140209 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 \documentclass{report}
 
-\usepackage{amsmath, array, enumerate, tikz, pgfplots, sfmath}
+\usepackage{amsmath, array, enumerate, tikz, pgfplots, sfmath, multicol}
 \pgfplotsset{compat = 1.16}
 \usepackage[margin = 0.5in]{geometry}
 \raggedright
@@ -8,6 +8,7 @@
 \newcounter{Review}
 
 \begin{document}
+\tableofcontents
 \include{Basic_Set_Theory_Int_Notation}
 \include{Functions_and_Their_Graphs}
 \include{Properties_of_Functions}
@@ -19,4 +20,7 @@
 \include{Rational_Functions_and_Their_Graphs}
 \include{Polynomial_and_Rational_Inequalities}
 \include{Function_Compositions}
+\appendix
+\include{Factoring}
+\include{Complex_Fractions}
 \end{document}
