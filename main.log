@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 NOV 2020 13:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 NOV 2020 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -91,6 +91,14 @@ Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 \ar@cellbox=\box29
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
@@ -537,20 +545,20 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 329.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 330.
-\symSFMath=\mathgroup4
+\symSFMath=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `SFMath' in version `normal'
 (Font)                  OT1/cmss/m/sl --> OT1/cmss/m/sl on input line 343.
 LaTeX Font Info:    Overwriting symbol font `SFMath' in version `bold'
 (Font)                  OT1/cmss/m/sl --> OT1/cmss/bx/n on input line 344.
 LaTeX Font Info:    Redeclaring math symbol \imath on input line 398.
 LaTeX Font Info:    Redeclaring math symbol \jmath on input line 399.
-\symSFMathUp=\mathgroup5
+\symSFMathUp=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `SFMathUp' in version `normal'
 (Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 406.
 LaTeX Font Info:    Overwriting symbol font `SFMathUp' in version `bold'
 (Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 407.
 LaTeX Font Info:    Redeclaring math symbol \ldotp on input line 410.
-\symSFMathGreek=\mathgroup6
+\symSFMathGreek=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `SFMathGreek' in version `normal'
 (Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 419.
 LaTeX Font Info:    Overwriting symbol font `SFMathGreek' in version `bold'
@@ -566,7 +574,7 @@ LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 429.
 LaTeX Font Info:    Redeclaring math symbol \Phi on input line 430.
 LaTeX Font Info:    Redeclaring math symbol \Psi on input line 431.
 LaTeX Font Info:    Redeclaring math symbol \Omega on input line 432.
-\symSFMathUpGreek=\mathgroup7
+\symSFMathUpGreek=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `SFMathUpGreek' in version `normal'
 
 (Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 436.
@@ -678,7 +686,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
 (./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
 (./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)
-(./Factoring.aux) (./Complex_Fractions.aux))
+(./Inverse_Functions.aux) (./Factoring.aux) (./Complex_Fractions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -853,108 +861,119 @@ Chapter 5.
 
 
 
-]) [13]
+] [13]) [14]
 \openout2 = `Function_Operations.aux'.
 
  (./Function_Operations.tex
 Chapter 6.
-[14
+[15
 
 
 
-]) [15]
+]) [16]
 \openout2 = `Polynomials_and_Their_Graphs.aux'.
 
  (./Polynomials_and_Their_Graphs.tex
 Chapter 7.
-[16
+[17
 
 
 
-]) [17]
+]) [18]
 \openout2 = `Dividing_Polynomials.aux'.
 
  (./Dividing_Polynomials.tex
 Chapter 8.
-[18
+[19
 
 
 
-]) [19]
+]) [20]
 \openout2 = `Rational_Functions_and_Their_Graphs.aux'.
 
  (./Rational_Functions_and_Their_Graphs.tex
 Chapter 9.
-[20
+[21
 
 
 
-]) [21]
+]) [22]
 \openout2 = `Polynomial_and_Rational_Inequalities.aux'.
 
  (./Polynomial_and_Rational_Inequalities.tex
 Chapter 10.
-[22
+[23
 
 
 
-]) [23]
+]) [24]
 \openout2 = `Function_Compositions.aux'.
 
  (./Function_Compositions.tex
 Chapter 11.
-[24
+[25
 
 
 
-]) [25]
+]) [26]
+\openout2 = `Inverse_Functions.aux'.
+
+ (./Inverse_Functions.tex
+Chapter 12.
+[27
+
+
+
+]) [28]
 \openout2 = `Factoring.aux'.
 
  (./Factoring.tex
 Appendix A.
-[26
+[29
 
 
 
-]) [27]
+]) [30]
 \openout2 = `Complex_Fractions.aux'.
 
  (./Complex_Fractions.tex
 Appendix B.
-[28
+[31
 
 
 
-]) [29] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
+]) [32] (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
 (./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
 (./Function_Operations.aux) (./Polynomials_and_Their_Graphs.aux)
 (./Dividing_Polynomials.aux) (./Rational_Functions_and_Their_Graphs.aux)
 (./Polynomial_and_Rational_Inequalities.aux) (./Function_Compositions.aux)
-(./Factoring.aux) (./Complex_Fractions.aux)) ) 
+(./Inverse_Functions.aux) (./Factoring.aux) (./Complex_Fractions.aux)) ) 
 Here is how much of TeX's memory you used:
- 23030 strings out of 492649
- 598712 string characters out of 6129622
- 847238 words of memory out of 5000000
- 26445 multiletter control sequences out of 15000+600000
- 8453 words of font info for 30 fonts, out of 8000000 for 9000
+ 23124 strings out of 492649
+ 599818 string characters out of 6129622
+ 848873 words of memory out of 5000000
+ 26520 multiletter control sequences out of 15000+600000
+ 11798 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,9n,127p,727b,2192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2018/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2018/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (29 pages, 140209 bytes).
+ 73i,13n,127p,727b,2192s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (32 pages, 161057 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 159 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
