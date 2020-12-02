@@ -82,6 +82,40 @@ Find each of the following given $f(x) = -2x^{3}+6x^{2}-5x+1$. Round to 3 decima
 \item Global Min
 \item Increasing Interval(s)
 \item Decreasing Interval(s)
+\setcounter{Review}{\value{enumi}}
+\end{enumerate}
+\end{multicols}
+
+Use the graph of $f(x)$ to answer each.	\newline\\
+
+\begin{center}
+\begin{tikzpicture}[scale=1]
+\begin{axis}[
+axis lines = middle, xmin = -5.75, xmax = 5, ymin = -10, ymax = 15, ticks=none]
+]
+\addplot [<-,blue, thick, domain=-4.5:4.2, samples=200] {-0.1*(x+1)*(x+4)*(x+1)*(x-4)};
+\addplot[blue, mark=*, only marks] coordinates {(-4,0) (-3.089,2.818) (-1,0) (0,1.6) (2.589,11.975) (4,0) (4.2,-4.434)};
+\node at (axis cs: -4,0) [below left, xshift=-0.1cm] {\scriptsize$(a, f(a))$};
+\node at (axis cs: -3.089,2.818) [above] {\scriptsize$(b, f(b))$};
+\node at (axis cs: -1,0) [below] {\scriptsize$(c, f(c))$};
+\node at (axis cs: 0,1.6) [right] {\scriptsize$(d, f(d))$};
+\node at (axis cs: 2.589,11.975) [above] {\scriptsize$(m, f(m))$};
+\node at (axis cs: 4,0) [below left, xshift=0.1cm] {\scriptsize$(n, f(n))$};
+\node at (axis cs: 4.2,-4.434) [left] {\scriptsize$(p, f(p))$};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\begin{multicols}{2}
+\begin{enumerate}
+\setcounter{enumi}{\value{Review}}
+\item Relative maxima of $f(x)$
+\item Relative minima of $f(x)$
+\item Absolute maxima of $f(x)$
+\item Absolute minima of $f(x)$
+\item Intervals where $f$ is increasing
+\item Intervals where $f$ is decreasing
+\item Zeros of $f$
 \end{enumerate}
 \end{multicols}
 
@@ -117,7 +151,7 @@ Find each of the following given $f(x) = -2x^{3}+6x^{2}-5x+1$. Round to 3 decima
 
 \section*{Miscellaneous}
 
-
+\begin{multicols}{2}
 \begin{enumerate}
     \item $[-2, \infty)$
     \item $[-4, \infty)$
@@ -137,4 +171,12 @@ Find each of the following given $f(x) = -2x^{3}+6x^{2}-5x+1$. Round to 3 decima
     \item None
     \item $(0.592, \, 1.408)$
     \item $(-\infty, \, 0.592) \cup (1.408, \, \infty)$
+	\item $(b, f(b))$ and $(m, f(m))$
+	\item $(c, f(c))$
+	\item $(m, f(m))$
+	\item None
+	\item $(-\infty, b) \cup (c, m)$
+	\item $(b, c) \cup (m, p)$
+	\item $x = a, \, x = c, \, x = n$
 \end{enumerate}
+\end{multicols}
