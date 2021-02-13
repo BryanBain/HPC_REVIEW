@@ -30,6 +30,34 @@ Find each of the following given the table below.
 \end{enumerate}
 \end{multicols}
 
+Find each of the following given the graphs of $f(x)$ (in red) and $g(x)$ (in blue) below:    \newline\\
+
+\begin{center}
+\begin{tikzpicture}[scale=0.85]
+\begin{axis}
+[xmin=-6.5, xmax=6.5, ymin=-6.5, ymax=6.5, xtick distance = 1, ytick distance = 1, axis lines=center, grid, width=4.5in, legend pos={north west}]
+\addplot[color=red, mark=*, thick] coordinates {
+(-5, 2) (-4,-2) (-3,3) (-2,4) (-1,-3) (0,1) (1,5) (2,-4) (3,-1) (4,-5) (5,0)
+};
+\addplot[color=blue, mark=*, thick] coordinates {
+(-5, -3) (-4,-5) (-3,0) (-2,3) (-1,-4) (0,4) (1,-1) (2,1) (3,2) (4,-2) (5,5)
+};
+\addlegendentry{{\color{red}$f(x)$}};
+\addlegendentry{{\color{blue}$g(x)$}};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\begin{multicols}{5}
+\begin{enumerate}   \setcounter{enumi}{\value{Review}}  \setlength{\itemsep}{8pt}
+    \item $(f + g)(2)$
+    \item $(f - g)(1)$
+    \item $(g - f)(-3)$
+    \item $(fg)(4)$
+    \item $\left(\frac{f}{g}\right)(0)$
+\end{enumerate} \setcounter{Review}{\value{enumi}}
+\end{multicols}
+
 \section{Operations with Functions: Domain}
 
 Given $f(x)=\sqrt{2x+7}$ and $g(x) = 3x+3$, find the domain of each.
@@ -76,6 +104,11 @@ Write the difference quotient for each.
      \item $-4$
      \item $-2$
      \item $-6$
+     \item $-3$
+    \item 6
+    \item $-3$
+    \item 10
+    \item $\frac{1}{4}$
 \end{enumerate}
 
 \section*{Operations with Functions: Domain}
