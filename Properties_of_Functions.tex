@@ -38,7 +38,7 @@ Find the intervals in which each is increasing or decreasing. Round to 3 decimal
 
 \section{Miscellaneous}
 
-Use the graph of $y = f(x)$ below to answer questions 1--10. Write your answers using interval notation.
+Use the graph of $y = f(x)$ below to answer the following questions. Write your answers using interval notation.
 \begin{center}
     \begin{tikzpicture}[>=stealth, scale=0.8]
     \begin{axis}
@@ -116,7 +116,39 @@ axis lines = middle, xmin = -5.75, xmax = 5, ymin = -10, ymax = 15, ticks=none]
 \item Intervals where $f$ is increasing
 \item Intervals where $f$ is decreasing
 \item Zeros of $f$
-\end{enumerate}
+\end{enumerate} \setcounter{Review}{\value{enumi}}
+\end{multicols}
+
+Given the labeled points $A$ through $G$ on the graph of $f(x)$ below, find each of the following.  
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[
+axis lines = middle, xmin = -1, xmax = 5, ymin = -2, ymax = 2, grid
+]
+\addplot[domain=-0.5:4.5, <->, red, very thick, smooth] {sin(deg(x)) + sin(deg(2*x))};
+\coordinate[label = above left: A] (A) at (axis cs:0,0);
+\coordinate[label=below:B] (B) at (axis cs:0.936,1.76);
+\coordinate[label=above right:C] (C) at (axis cs:2.09,0);
+\coordinate[label=below:D] (D) at (axis cs:2.574, -0.369);
+\coordinate[label=above:E] (E) at (axis cs:3.14,0);
+\coordinate[label=above:F] (F) at (axis cs:3.709,0.369);
+\coordinate[label=above right:G] (G) at (axis cs:4.19,0);
+\addplot[color=red, mark=*, only marks] coordinates {(0,0) (0.936,1.76) (2.09,0) (2.574, -0.369) (3.14,0) (3.709,0.369) (4.19,0)};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\begin{multicols}{4}
+\begin{enumerate}   \setcounter{enumi}{\value{Review}}
+    \item Increasing interval(s) 
+    \item Decreasing interval(s) 
+    \item Relative max  
+    \item Relative min
+    \item Global max
+    \item Global min    
+    \item Zeros of $f$  
+    \item Number of solutions to $f(x)=1$
+\end{enumerate} \setcounter{Review}{\value{enumi}}
 \end{multicols}
 
 \newpage
@@ -178,5 +210,13 @@ axis lines = middle, xmin = -5.75, xmax = 5, ymin = -10, ymax = 15, ticks=none]
 	\item $(-\infty, b) \cup (c, m)$
 	\item $(b, c) \cup (m, p)$
 	\item $x = a, \, x = c, \, x = n$
+    \item $(\infty, B) \cup (D, F)$
+    \item $(B, D) \cup (F, \infty)$
+    \item $B$ and $F$
+    \item $D$
+    \item $B$
+    \item None
+    \item $A, C, E, G$
+    \item 2
 \end{enumerate}
 \end{multicols}
