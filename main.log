@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  27 FEB 2021 06:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  3 APR 2021 19:21
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -808,8 +808,8 @@ File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 (./Exponential_Equations.aux) (./Logarithmic_Equations.aux) (./Sequences.aux)
 (./Series.aux) (./Angles_and_Radian_Measure.aux)
 (./Trig_Functions_of_Any_Angle.aux) (./Graphs_of_Sine_and_Cosine_Functions.aux)
-(./Graphs_of_Other_Trig_Functions.aux) (./Factoring.aux)
-(./Complex_Fractions.aux))
+(./Graphs_of_Other_Trig_Functions.aux) (./Inverse_Trig_Functions.aux)
+(./Factoring.aux) (./Complex_Fractions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -826,7 +826,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
- ABD: EveryShipout initializing macros
+
+ABD: EveryShipout initializing macros
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count151
@@ -963,7 +964,7 @@ LaTeX Font Warning: Font shape `T1/ppl/b/' undefined
 ge.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 ...\numberline {18}Sequences}{43}{chapter.18}
+l.35 ...\numberline {18}Sequences}{44}{chapter.18}
                                                    [1
 
 ])
@@ -993,32 +994,32 @@ Chapter 2.
 
 
 
-] [6]) [7]
+] [6] [7]) [8]
 \openout2 = `Properties_of_Functions.aux'.
 
  (./Properties_of_Functions.tex
 Chapter 3.
-[8
+[9
 
 
 
 ]
 Missing character: There is no ] in font nullfont!
- [9] [10] [11])
+ [10] [11] [12])
 \openout2 = `Linear_Functions_and_Slope.aux'.
 
  (./Linear_Functions_and_Slope.tex
 Chapter 4.
-[12
+[13
 
 
 
-] [13]) [14]
+] [14]) [15]
 \openout2 = `Function_Transformations.aux'.
 
  (./Function_Transformations.tex
 Chapter 5.
-[15
+[16
 
 
 
@@ -1028,155 +1029,155 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 107.
 
 
-[16]) [17]
+[17]) [18]
 \openout2 = `Function_Operations.aux'.
 
  (./Function_Operations.tex
 Chapter 6.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[18
+[19
 
 
 
-] [19]) [20]
+] [20]) [21]
 \openout2 = `Polynomials_and_Their_Graphs.aux'.
 
  (./Polynomials_and_Their_Graphs.tex
 Chapter 7.
-[21
+[22
 
 
 
-]) [22]
+]) [23]
 \openout2 = `Dividing_Polynomials.aux'.
 
  (./Dividing_Polynomials.tex
 Chapter 8.
-[23
+[24
 
 
 
-]) [24]
+]) [25]
 \openout2 = `Rational_Functions_and_Their_Graphs.aux'.
 
  (./Rational_Functions_and_Their_Graphs.tex
 Chapter 9.
-[25
+[26
 
 
 
-]) [26]
+]) [27]
 \openout2 = `Polynomial_and_Rational_Inequalities.aux'.
 
  (./Polynomial_and_Rational_Inequalities.tex
 Chapter 10.
-[27
+[28
 
 
 
-]) [28]
+]) [29]
 \openout2 = `Function_Compositions.aux'.
 
  (./Function_Compositions.tex
 Chapter 11.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[29
+[30
 
 
 
-]) [30]
+]) [31]
 \openout2 = `Inverse_Functions.aux'.
 
  (./Inverse_Functions.tex
 Chapter 12.
-[31
+[32
 
 
 
-]) [32]
+]) [33]
 \openout2 = `Exponential_Functions.aux'.
 
  (./Exponential_Functions.tex
 Chapter 13.
-[33
+[34
 
 
 
-]) [34]
+]) [35]
 \openout2 = `Logarithmic_Functions.aux'.
 
  (./Logarithmic_Functions.tex
 Chapter 14.
-[35
+[36
 
 
 
-]) [36]
+]) [37]
 \openout2 = `Properties_of_Logarithms.aux'.
 
  (./Properties_of_Logarithms.tex
 Chapter 15.
-[37
+[38
 
 
 
-]) [38]
+]) [39]
 \openout2 = `Exponential_Equations.aux'.
 
  (./Exponential_Equations.tex
 Chapter 16.
-[39
+[40
 
 
 
-]) [40]
+]) [41]
 \openout2 = `Logarithmic_Equations.aux'.
 
  (./Logarithmic_Equations.tex
 Chapter 17.
-[41
+[42
 
 
 
-]) [42]
+]) [43]
 \openout2 = `Sequences.aux'.
 
  (./Sequences.tex
 Chapter 18.
-[43
+[44
 
 
 
-]) [44]
+]) [45]
 \openout2 = `Series.aux'.
 
  (./Series.tex
 Chapter 19.
-[45
+[46
 
 
 
-]) [46]
+]) [47]
 \openout2 = `Angles_and_Radian_Measure.aux'.
 
  (./Angles_and_Radian_Measure.tex
 Chapter 20.
-[47
+[48
 
 
 
-]) [48]
+]) [49]
 \openout2 = `Trig_Functions_of_Any_Angle.aux'.
 
  (./Trig_Functions_of_Any_Angle.tex
 Chapter 21.
-[49
+[50
 
 
 
-]) [50]
+]) [51]
 \openout2 = `Graphs_of_Sine_and_Cosine_Functions.aux'.
 
 
@@ -1185,33 +1186,42 @@ No file Graphs_of_Sine_and_Cosine_Functions.tex.
 
 (./Graphs_of_Other_Trig_Functions.tex
 Chapter 22.
-[51
+[52
 
 
 
 
 
-]) [52]
+]) [53]
+\openout2 = `Inverse_Trig_Functions.aux'.
+
+ (./Inverse_Trig_Functions.tex
+Chapter 23.
+[54
+
+
+
+]) [55]
 \openout2 = `Factoring.aux'.
 
  (./Factoring.tex
 Appendix A.
-[53
+[56
 
 
 
-]) [54]
+]) [57]
 \openout2 = `Complex_Fractions.aux'.
 
  (./Complex_Fractions.tex
 Appendix B.
-[55
+[58
 
 
 
-]) [56]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+]) [59]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
 (./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
@@ -1223,24 +1233,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (./Exponential_Equations.aux) (./Logarithmic_Equations.aux) (./Sequences.aux)
 (./Series.aux) (./Angles_and_Radian_Measure.aux)
 (./Trig_Functions_of_Any_Angle.aux) (./Graphs_of_Sine_and_Cosine_Functions.aux)
-(./Graphs_of_Other_Trig_Functions.aux) (./Factoring.aux)
-(./Complex_Fractions.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AA80EDC14B6B647F10D57DC18C041BFA;2620.
+(./Graphs_of_Other_Trig_Functions.aux) (./Inverse_Trig_Functions.aux)
+(./Factoring.aux) (./Complex_Fractions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 3DC2D9943500FE0BCB151790BC13519B;2696
+(rerunfilecheck)             After:  69EDC52F1C250322E1929BAC52A05FCC;2751.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 29503 strings out of 492649
- 705226 string characters out of 6129622
- 937405 words of memory out of 5000000
- 31982 multiletter control sequences out of 15000+600000
- 14996 words of font info for 46 fonts, out of 8000000 for 9000
+ 29568 strings out of 492649
+ 705932 string characters out of 6129622
+ 938769 words of memory out of 5000000
+ 31988 multiletter control sequences out of 15000+600000
+ 15302 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,127p,727b,2235s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1252,16 +1268,17 @@ live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
 e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on main.pdf (57 pages, 261628 bytes).
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
+Output written on main.pdf (60 pages, 276608 bytes).
 PDF statistics:
- 1431 PDF objects out of 1440 (max. 8388607)
- 1328 compressed objects within 14 object streams
- 815 named destinations out of 1000 (max. 500000)
- 437 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1512 PDF objects out of 1728 (max. 8388607)
+ 1404 compressed objects within 15 object streams
+ 866 named destinations out of 1000 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
 
