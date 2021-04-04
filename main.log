@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  4 APR 2021 09:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  4 APR 2021 09:26
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1299,8 +1299,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 29920 strings out of 492649
- 710447 string characters out of 6129622
+ 29919 strings out of 492649
+ 710439 string characters out of 6129622
  941368 words of memory out of 5000000
  32196 multiletter control sequences out of 15000+600000
  15302 words of font info for 47 fonts, out of 8000000 for 9000
@@ -1322,10 +1322,10 @@ e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive
 8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/t
 exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on main.pdf (67 pages, 295387 bytes).
+Output written on main.pdf (67 pages, 295334 bytes).
 PDF statistics:
- 1688 PDF objects out of 1728 (max. 8388607)
- 1572 compressed objects within 16 object streams
- 977 named destinations out of 1000 (max. 500000)
+ 1687 PDF objects out of 1728 (max. 8388607)
+ 1571 compressed objects within 16 object streams
+ 976 named destinations out of 1000 (max. 500000)
  485 words of extra memory for PDF output out of 10000 (max. 10000000)
 
