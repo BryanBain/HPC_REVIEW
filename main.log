@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  20 APR 2021 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  21 APR 2021 15:33
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -833,7 +833,8 @@ File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 (./Trig_Eq_and_Ineq.aux) (./Law_of_Sines_and_Cosines.aux)
 (./Area_of_Triangles.aux) (./Polar_Coordinates.aux) (./Vectors.aux)
 (./Numerical_and_Graphical_Limits.aux) (./Algebraic_Limits.aux)
-(./Derivatives.aux) (./Factoring.aux) (./Complex_Fractions.aux))
+(./Continuity.aux) (./Derivatives.aux) (./Factoring.aux)
+(./Complex_Fractions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -850,8 +851,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count154
@@ -978,7 +978,6 @@ LaTeX Font Warning: Font shape `T1/ppl/b/' undefined
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\GPT@outputbox=\box73
 [1
 
 
@@ -1292,35 +1291,44 @@ Chapter 31.
 
 
 ]) [70]
-\openout2 = `Derivatives.aux'.
+\openout2 = `Continuity.aux'.
 
- (./Derivatives.tex
+ (./Continuity.tex
 Chapter 32.
 [71
 
 
 
 ]) [72]
-\openout2 = `Factoring.aux'.
+\openout2 = `Derivatives.aux'.
 
- (./Factoring.tex
-Appendix A.
+ (./Derivatives.tex
+Chapter 33.
 [73
 
 
 
 ]) [74]
-\openout2 = `Complex_Fractions.aux'.
+\openout2 = `Factoring.aux'.
 
- (./Complex_Fractions.tex
-Appendix B.
+ (./Factoring.tex
+Appendix A.
 [75
 
 
 
 ]) [76]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+\openout2 = `Complex_Fractions.aux'.
+
+ (./Complex_Fractions.tex
+Appendix B.
+[77
+
+
+
+]) [78]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
  (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
 (./Functions_and_Their_Graphs.aux) (./Properties_of_Functions.aux)
 (./Linear_Functions_and_Slope.aux) (./Function_Transformations.aux)
@@ -1336,22 +1344,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 (./Trig_Eq_and_Ineq.aux) (./Law_of_Sines_and_Cosines.aux)
 (./Area_of_Triangles.aux) (./Polar_Coordinates.aux) (./Vectors.aux)
 (./Numerical_and_Graphical_Limits.aux) (./Algebraic_Limits.aux)
-(./Derivatives.aux) (./Factoring.aux) (./Complex_Fractions.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+(./Continuity.aux) (./Derivatives.aux) (./Factoring.aux)
+(./Complex_Fractions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4C9DF535570A31A6DC8CF650EBA1DDDE;3272.
+(rerunfilecheck)             Checksum: 2C341DFB9F8B83B941CD564B3DE3AA68;3319.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 30278 strings out of 492649
- 714090 string characters out of 6129622
- 943259 words of memory out of 5000000
- 32218 multiletter control sequences out of 15000+600000
+ 30340 strings out of 492649
+ 714868 string characters out of 6129622
+ 943466 words of memory out of 5000000
+ 32241 multiletter control sequences out of 15000+600000
  15302 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,17n,136p,729b,2235s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1372,10 +1381,10 @@ e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on main.pdf (77 pages, 333383 bytes).
+Output written on main.pdf (79 pages, 340367 bytes).
 PDF statistics:
- 2108 PDF objects out of 2487 (max. 8388607)
- 1977 compressed objects within 20 object streams
- 1278 named destinations out of 1440 (max. 500000)
- 525 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2162 PDF objects out of 2487 (max. 8388607)
+ 2028 compressed objects within 21 object streams
+ 1310 named destinations out of 1440 (max. 500000)
+ 533 words of extra memory for PDF output out of 10000 (max. 10000000)
 
