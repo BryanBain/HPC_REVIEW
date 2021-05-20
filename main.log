@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  20 MAY 2021 08:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  20 MAY 2021 08:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -982,7 +982,7 @@ LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
 ge.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 ...{13}Exponential Functions}{34}{chapter.13}
+l.41 ...{13}Exponential Functions}{35}{chapter.13}
                                                    [1
 
 ] [2])
@@ -1018,21 +1018,21 @@ Chapter 3.
 
 ]
 Missing character: There is no ] in font nullfont!
- [10] [11]) [12]
+ [10] [11] [12]) [13]
 \openout2 = `Linear_Functions_and_Slope.aux'.
 
  (./Linear_Functions_and_Slope.tex
 Chapter 4.
-[13
+[14
 
 
 
-] [14]) [15]
+] [15]) [16]
 \openout2 = `Function_Transformations.aux'.
 
  (./Function_Transformations.tex
 Chapter 5.
-[16
+[17
 
 
 
@@ -1042,236 +1042,236 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 107.
 
 
-[17]) [18]
+[18]) [19]
 \openout2 = `Function_Operations.aux'.
 
  (./Function_Operations.tex
 Chapter 6.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[19
+[20
 
 
 
-] [20]) [21]
+] [21]) [22]
 \openout2 = `Polynomials_and_Their_Graphs.aux'.
 
  (./Polynomials_and_Their_Graphs.tex
 Chapter 7.
-[22
+[23
 
 
 
-]) [23]
+]) [24]
 \openout2 = `Dividing_Polynomials.aux'.
 
  (./Dividing_Polynomials.tex
 Chapter 8.
-[24
+[25
 
 
 
-]) [25]
+]) [26]
 \openout2 = `Rational_Functions_and_Their_Graphs.aux'.
 
  (./Rational_Functions_and_Their_Graphs.tex
 Chapter 9.
-[26
+[27
 
 
 
-]) [27]
+]) [28]
 \openout2 = `Polynomial_and_Rational_Inequalities.aux'.
 
  (./Polynomial_and_Rational_Inequalities.tex
 Chapter 10.
-[28
+[29
 
 
 
-]) [29]
+]) [30]
 \openout2 = `Function_Compositions.aux'.
 
  (./Function_Compositions.tex
 Chapter 11.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[30
+[31
 
 
 
-]) [31]
+]) [32]
 \openout2 = `Inverse_Functions.aux'.
 
  (./Inverse_Functions.tex
 Chapter 12.
-[32
+[33
 
 
 
-]) [33]
+]) [34]
 \openout2 = `Exponential_Functions.aux'.
 
  (./Exponential_Functions.tex
 Chapter 13.
-[34
+[35
 
 
 
-]) [35]
+]) [36]
 \openout2 = `Logarithmic_Functions.aux'.
 
  (./Logarithmic_Functions.tex
 Chapter 14.
-[36
+[37
 
 
 
-]) [37]
+]) [38]
 \openout2 = `Properties_of_Logarithms.aux'.
 
  (./Properties_of_Logarithms.tex
 Chapter 15.
-[38
+[39
 
 
 
-]) [39]
+]) [40]
 \openout2 = `Exponential_Equations.aux'.
 
  (./Exponential_Equations.tex
 Chapter 16.
-[40
+[41
 
 
 
-]) [41]
+]) [42]
 \openout2 = `Logarithmic_Equations.aux'.
 
  (./Logarithmic_Equations.tex
 Chapter 17.
-[42
+[43
 
 
 
-]) [43]
+]) [44]
 \openout2 = `Sequences.aux'.
 
  (./Sequences.tex
 Chapter 18.
-[44
+[45
 
 
 
-]) [45]
+]) [46]
 \openout2 = `Series.aux'.
 
  (./Series.tex
 Chapter 19.
-[46
+[47
 
 
 
-]) [47]
+]) [48]
 \openout2 = `Angles_and_Radian_Measure.aux'.
 
  (./Angles_and_Radian_Measure.tex
 Chapter 20.
-[48
+[49
 
 
 
-]) [49]
+]) [50]
 \openout2 = `Trig_Functions_of_Any_Angle.aux'.
 
  (./Trig_Functions_of_Any_Angle.tex
 Chapter 21.
-[50
+[51
 
 
 
-]) [51]
+]) [52]
 \openout2 = `Graphs_of_Sine_and_Cosine.aux'.
 
  (./Graphs_of_Sine_and_Cosine.tex
 Chapter 22.
-[52
+[53
 
 
 
-]) [53]
+]) [54]
 \openout2 = `Graphs_of_Other_Trig_Functions.aux'.
 
  (./Graphs_of_Other_Trig_Functions.tex
 Chapter 23.
-[54
+[55
 
 
 
-]) [55]
+]) [56]
 \openout2 = `Inverse_Trig_Functions.aux'.
 
  (./Inverse_Trig_Functions.tex
 Chapter 24.
-[56
+[57
 
 
 
-]) [57]
+]) [58]
 \openout2 = `Trig_Eq_and_Ineq.aux'.
 
  (./Trig_Eq_and_Ineq.tex
 Chapter 25.
-[58
+[59
 
 
 
-]) [59]
+]) [60]
 \openout2 = `Law_of_Sines_and_Cosines.aux'.
 
  (./Law_of_Sines_and_Cosines.tex
 Chapter 26.
-[60
+[61
 
 
 
-]) [61]
+]) [62]
 \openout2 = `Area_of_Triangles.aux'.
 
  (./Area_of_Triangles.tex
 Chapter 27.
-[62
+[63
 
 
 
-]) [63]
+]) [64]
 \openout2 = `Polar_Coordinates.aux'.
 
  (./Polar_Coordinates.tex
 Chapter 28.
-[64
+[65
 
 
 
-]) [65]
+]) [66]
 \openout2 = `Vectors.aux'.
 
  (./Vectors.tex
 Chapter 29.
-[66
+[67
 
 
 
-]) [67]
+]) [68]
 \openout2 = `Numerical_and_Graphical_Limits.aux'.
 
  (./Numerical_and_Graphical_Limits.tex
 Chapter 30.
-[68
+[69
 
 
 
-]) [69]
+]) [70]
 \openout2 = `Algebraic_Limits.aux'.
 
  (./Algebraic_Limits.tex
@@ -1279,47 +1279,47 @@ Chapter 31.
 
 LaTeX Warning: Command \o invalid in math mode on input line 21.
 
-[70
+[71
 
 
 
-]) [71]
+]) [72]
 \openout2 = `Continuity.aux'.
 
  (./Continuity.tex
 Chapter 32.
-[72
+[73
 
 
 
-]) [73]
+]) [74]
 \openout2 = `Derivatives.aux'.
 
  (./Derivatives.tex
 Chapter 33.
-[74
+[75
 
 
 
-]) [75]
+]) [76]
 \openout2 = `Factoring.aux'.
 
  (./Factoring.tex
 Appendix A.
-[76
+[77
 
 
 
-]) [77]
+]) [78]
 \openout2 = `Complex_Fractions.aux'.
 
  (./Complex_Fractions.tex
 Appendix B.
-[78
+[79
 
 
 
-]) [79]
+]) [80]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (./main.aux (./Basic_Set_Theory_Int_Notation.aux)
@@ -1350,8 +1350,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 30829 strings out of 492649
- 720452 string characters out of 6129622
+ 30830 strings out of 492649
+ 720459 string characters out of 6129622
  950806 words of memory out of 5000000
  32380 multiletter control sequences out of 15000+600000
  15633 words of font info for 49 fonts, out of 8000000 for 9000
@@ -1374,10 +1374,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-d
 ist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on main.pdf (80 pages, 363541 bytes).
+Output written on main.pdf (81 pages, 363879 bytes).
 PDF statistics:
- 2730 PDF objects out of 2984 (max. 8388607)
- 2590 compressed objects within 26 object streams
- 1657 named destinations out of 1728 (max. 500000)
+ 2734 PDF objects out of 2984 (max. 8388607)
+ 2593 compressed objects within 26 object streams
+ 1658 named destinations out of 1728 (max. 500000)
  821 words of extra memory for PDF output out of 10000 (max. 10000000)
 
