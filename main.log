@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  20 MAY 2021 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.10)  20 MAY 2021 09:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1341,15 +1341,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 (./Complex_Fractions.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5DA661B396A4DC3CB819E9E8720975C9;5449.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 2F1AA206BE0FAFA69A705DA46D0A47B8;5447
-(rerunfilecheck)             After:  5DA661B396A4DC3CB819E9E8720975C9;5449.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1380,7 +1374,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-d
 ist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on main.pdf (81 pages, 363679 bytes).
+Output written on main.pdf (81 pages, 363703 bytes).
 PDF statistics:
  2734 PDF objects out of 2984 (max. 8388607)
  2593 compressed objects within 26 object streams
