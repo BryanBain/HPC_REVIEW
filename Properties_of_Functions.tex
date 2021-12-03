@@ -308,6 +308,50 @@ axis lines = middle, xmin = -2.5, xmax = 2.5, ymin = -3.5, ymax = 4.5, grid=majo
 
 \newpage
 
+Find each of the following given the graph of $g(x)$ below.
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}
+[axis lines = middle, xmin = -4, xmax = 4, ymin = -5.5, ymax = 5.5, ticks = none]
+\addplot [<-, blue, very thick, domain=-3.5:3.5, samples=200] {0.5*x^2*cos(deg(2*x-pi/2))-1};
+\addplot [blue, thick, mark = o, fill=white] coordinates {(3.5, 3.15)};
+\addplot [blue, mark = *, only marks] coordinates {
+(-2.543,2.01) (-1.144,-1.493) (1.144, -0.507) (2.543,-4.01) 
+};
+\node at (axis cs:-2.543,2.01) [above] {$(-2.54,2.01)$};
+\node at (axis cs:-1.144,-1.493) [below, xshift=-0.2cm] {$(-1.14,-1.49)$};
+\node at (axis cs:1.144, -0.507) [above, yshift=0.5cm] {$(1.14,-0.51)$};
+\draw [->] (axis cs:1.14,0.6) -- (axis cs:1.14,-0.35);
+\node at (axis cs:2.543,-4.01) [below] {$(2.54,-4.01)$};
+\node at (axis cs:3.5,3.024) [above, left] {$(3.5,3.02)$};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+\item Domain of $g$
+\item Range of $g$
+\item Number of zeros of $g$
+\end{enumerate}		\setcounter{Review}{\value{enumi}}
+\end{multicols}
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+\item Relative maxima
+\item Relative minima
+\item Global maximum
+\end{enumerate}		\setcounter{Review}{\value{enumi}}
+\end{multicols}
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+\item Global minimum
+\item Increasing intervals
+\item Decreasing intervals
+\end{enumerate}		\setcounter{Review}{\value{enumi}}
+\end{multicols}
+
+\newpage
+
 \section{Answer Key}
 
 \section*{Maxima and Minima}
@@ -479,5 +523,26 @@ axis lines = middle, xmin = -2.5, xmax = 2.5, ymin = -3.5, ymax = 4.5, grid=majo
 \begin{multicols}{3}
 \begin{enumerate}	\setcounter{enumi}{\value{Review}} 
 	\item 4
-\end{enumerate}
+	\item $(-\infty, 3.5)$
+    \item $(-\infty, 3.02)$
+\end{enumerate}	\setcounter{Review}{\value{enumi}}
+\end{multicols}
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+	\item 3
+    \item $(-2.54,2.01) \text{ and } (1.14,-0.51)$
+    \item $(-1.14,-1.49) \text{ and } (2.54,-4.01)$
+\end{enumerate}	\setcounter{Review}{\value{enumi}}
+\end{multicols}
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+	\item None
+    \item None
+    \item $(-\infty, -2.54) \cup (-1.14,1.14) \cup (2.54,3.5)$
+\end{enumerate}	\setcounter{Review}{\value{enumi}}
+\end{multicols}
+\begin{multicols}{3}
+\begin{enumerate}	\setcounter{enumi}{\value{Review}} 
+	\item $(-2.54,-1.14) \cup (1.14,2.54)$
+\end{enumerate}	\setcounter{Review}{\value{enumi}}
 \end{multicols}
