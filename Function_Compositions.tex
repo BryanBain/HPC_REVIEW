@@ -114,6 +114,55 @@ Given $f(x) = \frac{5x}{2x-7}$ and $g(x) = \frac{x}{x+8}$, simplify each and sta
 \end{enumerate}     \setcounter{Review}{\value{enumi}}
 \end{multicols}
 
+Given $f(x) = x^2 - 5$, $g(x) = \frac{x}{2x-3}$, and $h(x) = \sqrt{6x+7}$, find the composition of each. Then state the domain of the composition using interval notation.
+\begin{multicols}{3}
+\begin{enumerate}   \setcounter{enumi}{\value{Review}}
+\item $(f \circ f)(x)$
+\item $(g \circ h)(x)$
+\item $h(g(x)$
+\end{enumerate}     \setcounter{Review}{\value{enumi}}	
+\end{multicols}
+
+Given the graph of $f(x)$, the table of $g(x)$, and $h(x)=\sqrt{x+12}$, find the value of each.  \newline\\
+\begin{minipage}{0.35\textwidth}
+\begin{tikzpicture}[scale=0.8]
+\begin{axis}
+[axis lines = middle, xmin = -5.5, xmax = 5.5, ymin = -5.5, ymax = 5.5, xtick distance = 1, ytick distance = 1, grid]
+\addplot [mark = *, very thick, blue, legend=$f(x)$] coordinates {
+(-5,4)
+(-4,3)
+(-3,-2)
+(-2,5)
+(-1,-4)
+(0,-1)
+(1,1)
+(2,-5)
+(3,-3)
+(4,2)
+(5,0)
+};
+\addlegendentry{$f(x)$};
+\end{axis}
+\end{tikzpicture}
+\end{minipage}
+\hspace{10pt}
+\begin{minipage}{0.55\textwidth}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline 
+    $\pmb{x}$ & $-5$ & $-4$ & $-3$ & $-2$ & $-1$ & 0 & 1 & 2 & 3 & 4 & 5 \\ \hline 
+    $\pmb{g(x)}$ & 5 & 4 & $-3$ & 0 & $-4$ & $-1$ & 1 & $-2$ & 2 & 3 & $-5$ \\ \hline 
+\end{tabular}
+\end{minipage}
+\begin{multicols}{5}
+\begin{enumerate}   \setcounter{enumi}{\value{Review}}
+	\item $(f \circ g)(-2)$
+	\item  $(h \circ h)(4)$
+	\item  $(g \circ f)(-5)$
+	\item  $f(g(h(13)))$
+	\item  $(g \circ g \circ f)(3)$
+\end{enumerate}     \setcounter{Review}{\value{enumi}}	
+\end{multicols}
+
 \newpage
 
 \section{Answer Key}
@@ -149,4 +198,13 @@ Given $f(x) = \frac{5x}{2x-7}$ and $g(x) = \frac{x}{x+8}$, simplify each and sta
     \item $\frac{5x}{-5x-56}$, $\left(-\infty, -\frac{56}{5}\right) \cup \left(-\frac{56}{5}, -8\right) \cup (-8, \infty)$   \newline\\
 	\item $\frac{5x}{21x-56}$, $\left(-\infty, \frac{8}{3}\right) \cup \left(\frac{8}{3}, \frac{7}{2}\right) \cup \left(\frac{7}{2}, \infty\right)$  \newline\\
 	\item $\frac{x}{9x+64}$, $(-\infty, -8) \cup \left(-8, -\frac{64}{9}\right) \cup \left(-\frac{64}{9}, \infty\right)$
+	\item $x^4-10x^2+20$; $(-\infty, \infty)$
+    \item $\frac{\sqrt{6x+7}}{2\sqrt{6x+7}-3}$; $\left[-\frac{7}{6}, -\frac{19}{24}\right) \cup \left(-\frac{19}{24}, \infty\right)$
+    \item $\sqrt{\frac{20x-21}{2x-3}}$; $\left(-\infty, \frac{21}{20}\right] \cup \left(\frac{3}{2}, \infty\right)$
+    
+    \item $-1$
+    \item 4
+    \item 3
+    \item 4
+    \item $-3$
 \end{enumerate}
