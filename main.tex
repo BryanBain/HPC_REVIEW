@@ -1,14 +1,25 @@
 \documentclass{report}
 
-\usepackage{amsmath, array, bm, enumerate, tikz, pgfplots, sfmath, multicol, hyperref, afterpage}
+\usepackage{amsmath, amssymb, array, bm, enumerate, tikz, pgfplots, sfmath, multicol, hyperref, afterpage, colortbl, xcolor}
 \usepackage[Lenny]{fncychap}
 \pgfplotsset{compat = newest}
 \usepackage[margin = 0.5in]{geometry}
-\raggedright
+\setlength{\parindent}{0in}
 \usepackage[scale=1.5]{ccicons}
 \renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\arraystretch}{1.5}
+\newcommand{\redy}{{\color{red}{y}}}
+%\setlength{\jot}{16pt}
 \newcounter{Review}
 \usetikzlibrary{fadings}
+
+\newcounter{example}[chapter]
+\newenvironment{example}[1][]{\refstepcounter{example}\par\medskip
+   {\color{red}\textbf{Example~\theexample. #1}}}{\medskip}
+   
+\newcounter{solution}[chapter]
+\newenvironment{solution}[1][]{\refstepcounter{solution}\par\bigskip
+   {\color{blue}\textbf{Solution~\theexample. #1}}}{\medskip}
 
 \begin{document}
 
@@ -32,7 +43,7 @@
 \titlefont Honors PreCalculus	\vfill
 \scalebox{5}{${\displaystyle \sum_{}^{}  } $}
 \vfill 
-\subtitlefont Extra Practice Problems}
+\subtitlefont Additional Notes, Examples, and Practice Problems}
 \end{center}
 \vfill
 Bryan Bain \hfill \today \hfill \ccbyncsa

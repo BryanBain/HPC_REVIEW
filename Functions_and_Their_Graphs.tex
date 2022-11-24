@@ -2,6 +2,84 @@
 
 \section{Evaluating Functions}
 
+The essence of functions can be summarized as follows:
+
+\begin{enumerate}
+    \item Take an input
+    \item Process it according to how the function is defined
+    \item Return a result as output
+\end{enumerate}
+
+We can give functions numerical or algebraic values. \\[18pt]
+
+Regardless of what type of input we give a function, you will need to remember your {\color{violet}\textbf{order of operations}} when processing that input. For each step in the order of operations, perform each step completely before moving on to the next step.
+
+\begin{enumerate}
+    \item Simplify any expressions inside parentheses.
+    \item Evaluate any exponential expressions
+    \item Perform any multiplication or division \emph{in the order in which they appear}.
+    \item Perform any addition or subtraction \emph{in the order in which they appear}.
+\end{enumerate}
+
+\vspace{18pt}
+
+\begin{example}
+Given $f(x) = -6x^2 - 5x + 2$, evaluate each of the following.
+\begin{multicols}{3}
+\begin{enumerate}[(a)]
+    \item $f(7)$
+    \item $f(3x)$
+    \item $f(5x - 6)$
+\end{enumerate}
+\end{multicols}
+\end{example}
+
+\begin{solution}
+$f(x)$'s whole purpose is to perform the following process:
+
+\begin{enumerate}
+    \item Square the input you give it
+    \item Multiply that result by $-6$
+    \item Multiply the input by 5 and subtract that from the previous step
+    \item Add 2 to the result from the previous step
+\end{enumerate}
+
+(a)  $f(7)$
+
+\begin{align*}
+    f(7) &= -6(7)^2 - 5(7) + 2 \\
+    &= -6(49) - 5(7) + 2 \qquad 7^2 = 49 \\
+    &= -294 - 5(7) + 2 \qquad -6(49) = -294 \\
+    &= -294 - 35 + 2 \qquad 5(7) = 35 \\
+    &= -329 + 2 \qquad -294-35 = -329 \\
+    &= -327
+\end{align*}
+
+(b)  $f(3x)$
+
+\begin{align*}
+    f(3x) &= -6(3x)^2 - 5(3x) + 2 \\
+    &= -6(9x^2) - 5(3x) + 2 \qquad (3x)^2 = 9x^2 \\
+    &= -54x^2 - 5(3x) + 2 \qquad -6(9x^2) = -54x^2 \\
+    &= -54x^2 - 15x + 2 \qquad 5(3x) = 15x \\
+    &= -54x^2 - 15x + 2 \qquad \text{no like terms to combine} 
+\end{align*}
+
+(c)  $f(5x-6)$
+
+\begin{align*}
+    f(5x-6) &= -6(5x-6)^2 - 5(5x-6) + 2 \\ 
+    &= -6(25x^2 - 60x + 36) - 5(5x-6) + 2 \qquad (5x-6)^2 = 25x^2 - 60x + 36 \\
+    &= -150x^2 + 360x - 216 - 5(5x-6) + 2 \qquad \text{distribute the $-6$} \\
+    &= -150x^2 + 360x - 216 - 25x + 30 + 2 \qquad \text{distribute the $-5$} \\
+    &= -150x^2 + 335x - 184 \qquad \text{combine like terms}
+\end{align*}
+\end{solution}
+
+\section{Exercises}
+
+\subsection*{Evaluating Functions}
+
 Given $f(x) = -3x^2 + 4x$ and $g(x) = \frac{1}{x}-5$, evaluate each.
 \begin{multicols}{3}
 \begin{enumerate}
@@ -46,7 +124,7 @@ Given $f(x) = -3x^2 + 4x$ and $g(x) = \frac{1}{x}-5$, evaluate each.
 \end{enumerate}
 \end{multicols}
 
-\section{Domain of Functions}
+\subsection*{Domain of Functions}
 
 Find the domain of each write your answers in interval notation.
 \begin{multicols}{3}
@@ -118,7 +196,7 @@ Find the domain of each write your answers in interval notation.
 
 \section{Answer Key}
 
-\section*{Evaluating Functions}
+\subsection*{Evaluating Functions}
 
 \begin{multicols}{3}
 \begin{enumerate}
@@ -163,7 +241,7 @@ Find the domain of each write your answers in interval notation.
 \end{enumerate}
 \end{multicols}
 
-\section*{Domain of Functions}
+\subsection*{Domain of Functions}
 
 \begin{multicols}{3}
 \begin{enumerate}
