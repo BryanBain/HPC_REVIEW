@@ -25,7 +25,7 @@ Suggested Order:
 22. Graphs of Sine and Cosine Functions
 23. Graphs of Other Trig Functions
 24. Inverse Trig Functions
-25. Trig Equations and Iequalities
+25. Trig Equations and Inequalities
 26. Law of Sines and Cosines; Area of Triangles
 27. Numerical and Graphical Limits
 28. Limits and Algebra
