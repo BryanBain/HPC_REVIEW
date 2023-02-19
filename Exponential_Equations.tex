@@ -1,5 +1,64 @@
 \chapter{Exponential Equations}
 
+When solving exponential equations, if possible, try to isolate your exponential expression. Then take the logarithm of both sides. \newline
+
+\begin{example}
+Solve each of the following. Round your answers to 4 decimal places. 
+\begin{enumerate}[(a)]
+\begin{multicols}{3}
+\item $5^{x+2} = 50$
+\item $2^{x-4} = 7^{x+1}$
+\item $4e^{-3x} = 11$
+\end{multicols}
+\end{enumerate}
+\end{example}
+
+\begin{solution} \bigskip 
+(a) The exponential function, $5^{x+2}$, is already isolated on the left side. We can take $\log_5$ of both sides and then use the Power Rule for logarithms. 
+\begin{align*}
+	5^{x+2} &= 50 \\
+	\log_5\left(5^{x+2}\right) &= \log_5(50) \\
+	(x+2)\log_5(5) &= \log_5(50) \\
+	x+2 &= \log_5(50) \qquad \text{since $\log_5(5) = 1$} \\
+	x &= \log_5(50) - 2 \\
+	x &\approx 0.4307
+\end{align*}
+
+To 4 decimal places, the solution to $5^{x+2} = 50$ is $\boxed{x \approx 0.4307}$ \newline 
+
+(b) We can apply the Product Rule for exponents to write a single exponential function. Then we can apply logarithms.
+\begin{align*}
+	2^{x-4} &= 7^{x+1}		\\
+	2^x \cdot 2^{-4} &= 7^x \cdot 7^1 \qquad \text{Product Rule for exponents} \\
+	2^x \cdot \tfrac{1}{16} &= 7^x \cdot 7 \\
+	2^x &= 7^x \cdot 112 \qquad \text{Multiply both sides by 16 to clear fractions} \\
+	\tfrac{2^x}{7^x} &= 112	\qquad \text{Divide both sides by $7^x$ since it will never equal 0} \\
+	\left(\tfrac{2}{7}\right)^x &= 112	\qquad \text{Raising a fraction raises both numerator and denominator to that power} \\
+	\log_{2/7}\left(\tfrac{2}{7}\right)^x &= \log_{2/7}(112) \\
+	x \cdot \log_{2/7}\left(\tfrac{2}{7}\right) &= \log_{2/7}(112) \\
+	x &= \log_{2/7}(112) \\
+	x &\approx -3.7665
+\end{align*}
+
+To 4 decimal places, the solution to $2^{x-4} = 7^{x+1}$ is $\boxed{x \approx -3.7665}$ \newline 
+
+(c) This time, we want to isolate the function $e^{-3x}$.
+\begin{align*}
+	4e^{-3x} &= 11 \\
+	e^{-3x} &= \tfrac{11}{4} \\
+	\ln\left(e^{-3x}\right) &= \ln\left(\tfrac{11}{4}\right) \\
+	-3x &= \ln\left(\tfrac{11}{4}\right) \\
+	x &= -\tfrac{1}{3} \ln\left(\tfrac{11}{4}\right) \\
+	x &\approx -0.3372
+\end{align*}
+
+To 4 decimal places, the solution to $4e^{-3x} = 11$ is $\boxed{x \approx -0.3372}$
+\end{solution}
+
+\bigskip 
+
+\section{Exercises}
+
 Solve each. Round to 3 decimal places when necessary.
 \begin{multicols}{2}
 \begin{enumerate}
