@@ -25,11 +25,12 @@ Regardless of what type of input we give a function, you will need to remember y
 
 \begin{example}
 Given $f(x) = -6x^2 - 5x + 2$, evaluate each of the following.
-\begin{multicols}{3}
+\begin{multicols}{4}
 \begin{enumerate}[(a)]
     \item $f(7)$
     \item $f(3x)$
     \item $f(5x - 6)$
+    \item $f(x + h)$
 \end{enumerate}
 \end{multicols}
 \end{example}
@@ -74,6 +75,78 @@ $f(x)$'s whole purpose is to perform the following process:
     &= -150x^2 + 360x - 216 - 25x + 30 + 2 \qquad \text{distribute the $-5$} \\
     &= -150x^2 + 335x - 184 \qquad \text{combine like terms}
 \end{align*}
+
+(d) $f(x+h)$
+
+\begin{align*}
+  f(x+h) &= -6(x+h)^2 - 5(x+h) + 2 \\
+  &= -6(x^2 + 2hx + h^2) - 5(x+h) + 2 \qquad (x+h)^2 = (x+h)(x+h) = x^2 + 2hx + h^2 \\
+  &= -6x^2 - 12hx - 6h^2 - 5(x+h) + 2 \qquad \text{Distribute the $-6$} \\
+  &= -6x^2 - 12hx - 6h^2 - 5x - 5h + 2 \qquad \text{Distribute the $-5$}
+\end{align*}
+\end{solution}
+
+\section*{Domain}
+
+Recall that domain is the set of all possible inputs a function can accept. Currently, there are 2 domain issues that can arise:
+
+\begin{itemize}
+\item Dividing by 0
+\item Taking an even root of a negative number
+\end{itemize}
+
+\begin{example}
+Find the domain of each. Write your answers in interval notation.
+\begin{enumerate}[(a)]
+\begin{multicols}{3}
+	\item $f(x) = \frac{8 + \frac{5}{x}}{7-\frac{x}{x+9}}$
+	\item $g(x) = \frac{9x^2-3}{x^2 - 6x + 5}$
+	\item $h(x) = \frac{2}{\sqrt{4x+3}}$
+\end{multicols}
+\end{enumerate}
+\end{example}
+
+\begin{solution}
+(a) $f(x) = \frac{8 + \frac{5}{x}}{7-\frac{x}{x+9}}$ \newline 
+
+If we look at each fraction bar in the function, we find the following expressions represent denominators: $x$, $x+9$, and $7-\frac{x}{x+9}$. We want to make sure each of these does not equal 0. \newline 
+
+For the first one, it's just a simple $x \neq 0$. \newline 
+
+For the second, we set $x + 9 \neq 0$ from which we get $x \neq -9$. \newline 
+
+For the third, we set $7 - \frac{x}{x+9} \neq 0$ and solve:
+\begin{align*}
+	7 - \frac{x}{x+9} &\neq 0 \\
+	7 &\neq \frac{x}{x+9} \qquad \text{Add $\frac{x}{x+9}$ to both sides} \\
+	7(x+9) &\neq x \qquad \text{Multiply both sides by $x+9$} \\
+	7x + 63 &\neq x \qquad \text{Distribut the 7} \\
+	63 &\neq -6x \qquad \text{Subtract $7x$ from both sides} \\
+	x &\neq -\frac{21}{2} \qquad \text{Divide both sides by $-6$ and simplify} 
+\end{align*}
+
+So we have the following for the domain: $x \neq -\frac{21}{2}, -9, 0$. Writing this in interval notation gives us \[\left(-\infty, -\tfrac{21}{2}\right) \cup \left(-\tfrac{21}{2}, -9\right) \cup (-9, 0) \cup (0, \infty)\]
+
+(b) $g(x) = \frac{9x^2-3}{x^2 - 6x + 5}$ \newline
+
+Here, we have the expression $x^2 - 6x + 5$ in a denominator. We want to make sure that denominator does not equal 0.
+
+\begin{align*}
+x^2 - 6x + 5 &\neq 0 \\
+(x-1)(x-5) &\neq 0 \qquad \text{Factor the left side} \\
+x-1 \neq 0 \quad & \quad x -5\neq 0 \qquad \text{Set each factor $\neq 0$} \\
+x &\neq 1, 5 \qquad \text{Solve each}
+\end{align*}
+
+The answer $x \neq 1, 5$ written in interval notation is $(-\infty, 1) \cup (1, 5) \cup (5, \infty)$ \newline\\
+
+(c) $h(x) = \frac{2}{\sqrt{4x+3}}$	\newline 
+
+For this one, we have a square root (which is an even root) in the denominator. Normally, we would want to set $4x + 3 \geq 0$, since we can't take the square root of a negative. \newline 
+
+However, because the square root expression is in a denominator, we can not let it equal 0. Thus, we will set $4x + 3 > 0$ and solve to get $x > -\frac{3}{4}$ \newline 
+
+$x > -\frac{3}{4}$ written in interval notation is $\left(-\frac{3}{4}, \infty\right)$
 \end{solution}
 
 \section{Exercises}
